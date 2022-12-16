@@ -1,0 +1,23 @@
+{
+  "name": "idcas-swag-labs-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janna26/idcas--Swag-Labs-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janna26/idcas--Swag-Labs-automation/issues"
+  },
+  "homepage": "https://github.com/Janna26/idcas--Swag-Labs-automation#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
