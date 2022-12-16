@@ -1,0 +1,7 @@
+{
+    "burgerMenu":"#react-burger-menu-btn",
+    "allItemLink":"#inventory_sidebar_link",
+    "aboutLink":"#about_sidebar_link",
+    "resetLink":"#reset_sidebar_link"
+
+}

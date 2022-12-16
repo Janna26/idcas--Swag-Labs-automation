@@ -1,0 +1,5 @@
+{
+    "userName": "#first-name",
+    "lastName":"#last-name",
+    "zipCode":"#postal-code"
+}
