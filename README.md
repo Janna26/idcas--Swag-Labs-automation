@@ -32,7 +32,7 @@ Purchase flow:
 - Carry out the purchase flow and do not enter the name in Checkout.
 - Carry out the purchase flow and do not enter the last name in Checkout.
 - Carry out the purchase flow and do not enter the zip code at Checkout.
-- Select multiple items and refresh the page clicking "reset App State" option.
+- Select multiple items and refresh the page clicking "Reset App State" option.
 
 
 // Browsing
